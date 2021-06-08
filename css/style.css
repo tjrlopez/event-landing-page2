@@ -1,0 +1,19 @@
+.nav-background {
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+li {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-1 {
+    justify-content: flex-start;
+
+}
