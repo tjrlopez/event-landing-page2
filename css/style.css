@@ -1,5 +1,6 @@
 .nav-background {
-
+    display: flex;
+    align-items: flex-end;
 }
 
 ul {
